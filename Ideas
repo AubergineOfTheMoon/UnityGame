@@ -1,0 +1,50 @@
+Ideas
+
+RPG game
+1   Halo Wars/Fire Emblem-esk game
+2   Fictional or allegorical
+3   
+
+Phase 1
+  1 map 
+  1 v 1 
+  1 faction
+  Basic AI for testing
+  Units
+    Ranged
+      Different chhildren/distances possible
+    Melee
+    Support
+    Special 
+  Win conditions
+    Win condition class
+      Destroy all units (Phase 1)
+      HQ protect (Later phases)
+      Inflict most damage (Later phases)
+  Controls
+    Keyboard
+      Cursor will be Player class
+    Mouse (Phase 3)
+  Camera
+    Pending choice
+    Probably 3D
+    Isometric
+    Dynamic Camera
+      Needs restrictions
+  
+    
+  *Tile based (Local location per James in Unity)
+    Tile types - grass, water types
+  
+Phase 1.5
+  *Online capibilities
+    Lan (to start)
+
+Phase 2
+  Rules
+    Turn limit
+  Battle Animations
+  Cut scenes
+  Rock paper scissors advantage
+
+*Potentially hard
