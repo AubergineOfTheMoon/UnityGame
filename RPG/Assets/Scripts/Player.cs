@@ -32,7 +32,7 @@ public class Player : Movement
 	// Update is called once per frame
 	void Update ()
     {
-        Move();
+      
         
     }
 
